@@ -5,3 +5,4 @@
 
 
 https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Tistory-84a8ad?style=flat-square&logo=Blogger&logoColor=white"/></a>
