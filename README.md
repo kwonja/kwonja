@@ -1,5 +1,5 @@
-<center>가운데</center>
-<span style="width : 100px"> Kwonja </span> <span "width : 100px"> Kwonja </span>
+<p align="center">가운데</p>
+<p align="center"> Kwonja </p> <p align="right"> Kwonja </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonja&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
