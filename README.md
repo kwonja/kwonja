@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kwonja's Github&fontSize=50)
 
 # 💌 Social 💌
 [![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=snna58)](https://solved.ac/snna58)
@@ -56,3 +57,5 @@
 # State & Primary Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonja)](https://github.com/kwonja/github-readme-stats) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonja&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
