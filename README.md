@@ -6,7 +6,7 @@ profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=snna58)](https://so
 
 Once I've used
 
-<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonja&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
