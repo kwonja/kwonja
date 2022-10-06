@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kwonja's Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kwonja'GitHub&fontSize=50)
 
 # 💌 Social 💌
 [![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=snna58)](https://solved.ac/snna58)
