@@ -54,7 +54,7 @@
 1. 2022년 창업 액설러레이션 참여
 2. 제 8회 SW 융합 해커톤 대회 참여
 
-# State & Primary Languages
+# Primary Languages & State
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonja)](https://github.com/kwonja/github-readme-stats) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonja&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
