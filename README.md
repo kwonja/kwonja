@@ -54,6 +54,7 @@
 # 🏆 Experience 🏆
 1. 2022년 창업 액설러레이션 참여
 2. 제 8회 SW 융합 해커톤 대회 참여
+3. 2022년 1학기 교과목 내 교과기반 프로젝트 영어발표회 수상
 
 # Primary Languages & State
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonja)](https://github.com/kwonja/github-readme-stats) 
