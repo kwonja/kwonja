@@ -49,7 +49,7 @@
 2022년 GOOD 아이디어 공모전 대상 & 인기상 <br/>
 2022년 Start-Up 배틀그라운드 장려상 <br/>
 
-# Primary Languages & State
+# :palm_tree: State :palm_tree:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonja)](https://github.com/kwonja/github-readme-stats) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonja&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
