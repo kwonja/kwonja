@@ -43,6 +43,7 @@
 2022년 1학기 교과목 내 교과기반 프로젝트 영어발표회 수상 <br/>
 2022년 GOOD 아이디어 공모전 대상 & 인기상 <br/>
 2022년 Start-Up 배틀그라운드 장려상 <br/>
+2023년 창업 액설러레이션 참여 <br/>
 
 # :palm_tree: State :palm_tree:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonja)](https://github.com/kwonja/github-readme-stats) 
