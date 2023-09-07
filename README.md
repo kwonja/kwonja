@@ -44,7 +44,7 @@
 2022년 GOOD 아이디어 공모전 대상 & 인기상 <br/>
 2022년 Start-Up 배틀그라운드 장려상 <br/>
 2023년 창업 액설러레이션 참여 <br/>
-프리온보딩 프론트엔드 인턴쉡 <br/>
+프리온보딩 프론트엔드 인턴쉽 11차 <br/>
 
 # :palm_tree: State :palm_tree:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonja)](https://github.com/kwonja/github-readme-stats) 
