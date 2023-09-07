@@ -38,13 +38,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 🏆 Experience 🏆
-2022년 창업 액설러레이션 참여 <br/>
-제 9회 SW 융합 해커톤 대회 참여 <br/>
+2022년 창업 액설러레이션 참여( 22.4.10 ~ 22.11.19) <br/>
+제 9회 SW 융합 해커톤 대회 참여(22.9.16 ~ 22.9.18) <br/>
 2022년 1학기 교과목 내 교과기반 프로젝트 영어발표회 수상 <br/>
 2022년 GOOD 아이디어 공모전 대상 & 인기상 <br/>
 2022년 Start-Up 배틀그라운드 장려상 <br/>
-2023년 창업 액설러레이션 참여 <br/>
-프리온보딩 프론트엔드 인턴쉽 11차 <br/>
+2023년 창업 액설러레이션 참여(23.4.10 ~ ) <br/>
+프리온보딩 프론트엔드 인턴쉽 11차(23.6.26 ~ 23.8.25) <br/>
+제 10회 SW 융합 해커톤 대회 참여(23.8.25 ~ 23.8.27) <br/>
 
 # :palm_tree: State :palm_tree:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonja)](https://github.com/kwonja/github-readme-stats) 
