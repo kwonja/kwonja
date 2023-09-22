@@ -46,7 +46,7 @@
 2023년 창업 액설러레이션 참여(23.4.10 ~ ) <br/>
 프리온보딩 프론트엔드 인턴쉽 11차(23.6.26 ~ 23.8.25) <br/>
 제 10회 SW 융합 해커톤 대회 참여(23.8.25 ~ 23.8.27) <br/>
-
+기술창업 모의 IR 경진대회 최우수상(23.9.22) <br/>
 # :palm_tree: State :palm_tree:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonja)](https://github.com/kwonja/github-readme-stats) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonja&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
