@@ -5,8 +5,7 @@
 # Hello, I`m KwonSungmin :smiley:
 # 💌 Social 💌
 [![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=snna58)](https://solved.ac/snna58)
-<a href="https://blog.naver.com/snna58"><img src="https://img.shields.io/badge/Naver-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="https://kwonjamon.tistory.com/"><img src="https://img.shields.io/badge/Tistory-84a8ad?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://velog.io/@kwonja"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwonja&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
