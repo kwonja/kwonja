@@ -13,12 +13,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)<br/>
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)<br/>
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 # ☁️ Deploy ☁️
@@ -36,7 +36,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# 🏆 Experience 🏆
+# :running: Activity :running:
 2022년 창업 액설러레이션 참여( 22.4.10 ~ 22.11.19) <br/>
 제 9회 SW 융합 해커톤 대회 참여(22.9.16 ~ 22.9.18) <br/>
 2022년 1학기 교과목 내 교과기반 프로젝트 영어발표회 수상 <br/>
@@ -46,6 +46,7 @@
 프리온보딩 프론트엔드 인턴쉽 11차(23.6.26 ~ 23.8.25) <br/>
 제 10회 SW 융합 해커톤 대회 참여(23.8.25 ~ 23.8.27) <br/>
 기술창업 모의 IR 경진대회 최우수상(23.9.22) <br/>
+삼성 청년 SW 아카데미 11기(24.1.2 ~ 24.12.1) <br/>
 # :palm_tree: State :palm_tree:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonja)](https://github.com/kwonja/github-readme-stats) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonja&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
