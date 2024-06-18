@@ -37,12 +37,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # :running: Activity :running:
-2022년 창업 액설러레이션 참여( 22.4.10 ~ 22.11.19) <br/>
-제 9회 SW 융합 해커톤 대회 참여(22.9.16 ~ 22.9.18) <br/>
-2023년 창업 액설러레이션 참여(23.4.10 ~ 23.11.09) <br/>
-프리온보딩 프론트엔드 인턴쉽 11차(23.6.26 ~ 23.8.25) <br/>
-제 10회 SW 융합 해커톤 대회 참여(23.8.25 ~ 23.8.27) <br/>
-삼성 청년 SW 아카데미 11기(24.1.2 ~ 24.12.1) <br/>
+2022년 창업 액설러레이션 참여( 22.4.10 ~ 22.11.19)<br/>
+제 9회 SW 융합 해커톤 대회 참여(22.9.16 ~ 22.9.18)<br/>
+2023년 창업 액설러레이션 참여(23.4.10 ~ 23.11.09)<br/>
+프리온보딩 프론트엔드 인턴쉽 11차(23.6.26 ~ 23.8.25)<br/>
+제 10회 SW 융합 해커톤 대회 참여(23.8.25 ~ 23.8.27)<br/>
+삼성 청년 SW 아카데미 11기(24.1.2 ~ 24.12.1)<br/>
 # :palm_tree: State :palm_tree:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonja)](https://github.com/kwonja/github-readme-stats) 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonja&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
