@@ -3,9 +3,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kwonja%27s%20GitHub&fontSize=50)
 
 ## 👨‍💻 Introduction
-안녕하세요~! 프론트엔드 개발자 권성민입니다!
-사용자에게 좋은 경험을 제공하는 웹 서비스를 만드는 것을 좋아하며,  
-현재는 **백엔드 개발과 앱 개발**을 공부하며 AI로 학습은 어떻게 해야하는가 고민하고 있습니다.
+
+안녕하세요~! 프론트엔드 개발자 권성민입니다! <br/>
+사용자가 이용하기 쉬운 서비스를 만드는걸 좋아하며,  <br/>
+현재는 **백엔드 개발과 앱 개발**을 공부하며 AI로 학습은 어떻게 해야하는가 고민하고 있습니다. <br/>
 
 
 ## 💼 Work
