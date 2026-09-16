@@ -31,6 +31,11 @@ Front-End Developer(계약직) (2026.06 ~ 2026.10)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+## 🏗️ Architecture
+
+![Monorepo](https://img.shields.io/badge/Architecture-Monorepo-3178C6?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture-6DB33F?style=for-the-badge)
+
 ## 🤖 AI
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
