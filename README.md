@@ -14,7 +14,7 @@
 
 ## 💼 Work
 
-Front-End Developer (2025.08 ~ 2026.04)
+Front-End Developer (2025.08 ~ 2026.04) <br/>
 Front-End Developer(계약직) (2026.06 ~ 2026.10)
 
 ## 💌 Social
